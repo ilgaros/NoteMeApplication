@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NoteMe</string>
+    <string name="card_creation_date">Дата создания:</string>
+    <string name="card_modified_date">Дата изменения:</string>
+    <string name="delete_all_notes">Удалить все записи</string>
+    <string name="all_deleted">Все записи удалены</string>
+    <string name="are_you_sure">Вы уверены?</string>
+    <string name="title_activity_editor">EditorActivity</string>
+    <string name="hint_body">Введите текст заметки</string>
+    <string name="hint_head">Введите заголовок</string>
+    <string name="btn_add_image_label">Добавить фото</string>
+    <string name="new_note">Новая заметка</string>
+    <string name="note_updated">Заметка обновлена</string>
+    <string name="action_delete">Удалить заметку</string>
+    <string name="note_deleted">Заметка удалена</string>
+    <string name="description_editor_image">Картинка</string>
+    <string name="description_list_image">Картинка</string>
+</resources>
